@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mcxiaochen.github.io</id>
-    <title>米晨官网</title>
-    <updated>2021-10-16T01:47:03.126Z</updated>
+    <title>米晨轨道交通</title>
+    <updated>2021-10-16T01:49:15.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mcxiaochen.github.io"/>
     <link rel="self" href="https://mcxiaochen.github.io/atom.xml"/>
     <logo>https://mcxiaochen.github.io/images/avatar.png</logo>
     <icon>https://mcxiaochen.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 米晨官网</rights>
+    <rights>All rights reserved 2021, 米晨轨道交通</rights>
     <entry>
         <title type="html"><![CDATA[123]]></title>
         <id>https://mcxiaochen.github.io/post/123/</id>
