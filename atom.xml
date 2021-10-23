@@ -2,13 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mcxiaochen.github.io</id>
     <title>米晨轨道交通</title>
-    <updated>2021-10-16T12:32:11.664Z</updated>
+    <updated>2021-10-23T00:35:23.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mcxiaochen.github.io"/>
     <link rel="self" href="https://mcxiaochen.github.io/atom.xml"/>
     <logo>https://mcxiaochen.github.io/images/avatar.png</logo>
     <icon>https://mcxiaochen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 米晨轨道交通</rights>
+    <entry>
+        <title type="html"><![CDATA[1号线10月23日起首班车时间将提前30分钟]]></title>
+        <id>https://mcxiaochen.github.io/post/1-hao-xian-10-yue-23-ri-qi-shou-ban-che-shi-jian-jiang-ti-qian-30-fen-zhong/</id>
+        <link href="https://mcxiaochen.github.io/post/1-hao-xian-10-yue-23-ri-qi-shou-ban-che-shi-jian-jiang-ti-qian-30-fen-zhong/">
+        </link>
+        <updated>2021-10-23T00:27:11.000Z</updated>
+        <content type="html"><![CDATA[<p>自2021年10月23日起，1号线（米晨南站~文昌路站）全线首班车将提前30分钟，整体运营时间有所延长、列车间隔维持不变。</p>
+<p>米晨南站往文昌路站方向的首班车始发时间由05:40提前至05:10。文昌路站往米晨南站方向的首班车始发时间由06:00提前至05:30。<br>
+<img src="https://mcxiaochen.github.io/post-images/1634948999507.jpg" alt="" loading="lazy"></p>
+<p>除首班车调整外，1号线运营间隔维持不变。此次1号线首班车调整后，将实现1号线文昌路站发出首班车与2号线米晨南站发出首班车的换乘。</p>
+<p>#GG01-001</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米晨轨道交通1号线广告媒体资源合作项目招标公告]]></title>
         <id>https://mcxiaochen.github.io/post/mi-chen-gui-dao-jiao-tong-1-hao-xian-guang-gao-mei-ti-zi-yuan-he-zuo-xiang-mu-zhao-biao-gong-gao/</id>
